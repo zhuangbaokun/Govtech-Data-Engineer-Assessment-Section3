@@ -10,4 +10,4 @@
 - This file is exactly the same as 1) so please ignore!
 
 #### 3) Kafka and Cloud Service Research.docx
-- This file contains the research videos and links to resources I used as references for the design of the data infrastructure   
+- This file contains the research videos and links to resources I used as references for the design of the data infrastructure. You can ignore this as well!   
